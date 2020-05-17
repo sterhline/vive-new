@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "RotisSerifStd";
+  src: url("../fonts/Rotis-Serif-Std.woff") format("woff"), 
+       url("../fonts/Rotis-Serif-Std.woff2") format("woff2");  
+}
+@font-face {
+     font-family: "OakesGrotesk-Bold";
+     src: url("../fonts/OakesGroteskBold.woff") format("woff"), 
+          url("../fonts/OakesGroteskBold.woff2") format("woff2");  
+          font-weight: 700;
+}
+   
+@font-face {
+     font-family: "OakesGrotesk-Regular";
+     src: url("../fonts/OakesGroteskRegular.woff") format("woff"), 
+          url("../fonts/OakesGroteskRegular.woff2") format("woff2");  
+          font-weight: 400;
+}
